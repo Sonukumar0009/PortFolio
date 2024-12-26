@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have developed many frontend project making responsive and user-friendly interfaces using modern technologies like React, Next.js, and TailwindCSS."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I am skilled in backend development with experience in building robust and scalable server-side applications using Node.js, Express.js, and MongoDB."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I specialize in UI/UX design, crafting visually stunning and user-friendly interfaces that provide seamless and enjoyable experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Full stack Development",
+      "description": "I have developed several full-stack projects, seamlessly integrating frontend and backend technologies to create dynamic and user-centric applications."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Food.jpeg",
+      "title": "Tomato.",
+      "description": "I have developed a responsive MERN Stack food delivery website using React.js for frontend featuring user authentication with JWT, a robust admin panel for managing orders, menus, and user data, and seamless payment integration using Stripe. The platform ensures efficient server-side operations with Express.js and secure data storage with MongoDB.",
+      "link": "https://github.com/Sonukumar0009/Food_del"
+    },
+    {
+      "id": "2",
+      "src": "./img/Port.jpeg",
+      "title": "Portfolio",
+      "description": "I have developed a portfolio website using React.js for a dynamic and responsive frontend. The site showcases projects, skills, and experiences, providing an engaging and user-friendly interface for visitors. It is designed with modern UI/UX principles to leave a lasting impression and optimized for seamless performance across devices..",
+      "link": "https://github.com/Sonukumar0009/PortFolio"
+    },
+    {
+      "id": "3",
+      "src": "./img/Real.jpeg",
+      "title": "RealEstatePro",
+      "description": "I have developed a real estate website using Next.js for a responsive frontend and Supabase as the backend database.The platform allows users to filter properties by location, bedrooms, bathrooms, and list properties for sale or rent. With secure user authentication and efficient data management, the website ensures a seamless experience for buyers, renters, and property owners.",
+      "link": "https://github.com/Sonukumar0009/RealEstate"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
